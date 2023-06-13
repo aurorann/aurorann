@@ -17,9 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/FF5733?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-
-
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
-
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?pvs=4&url=https%3A%2F%2Fsssooon.notion.site%2F1f1dedba8b60483ebb474a8d2bbcfa94&count_bg=%23FF9D49&title_bg=%23000000&icon=notion.svg&icon_color=%23E7E7E7&title=Notion&edge_flat=false)](https://hits.seeyoufarm.com)
