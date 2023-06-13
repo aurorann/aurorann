@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## 🖥️ DEVELOPE VLOG 🖥️
 <div style="display:flex; flex-direction:row;">
-    <a href="https://www.notion.so/sssooon/1f1dedba8b60483ebb474a8d2bbcfa94">
+    <a href="https://sssooon.notion.site/bb94e971138d475db2021398c2ea32bb?v=6e5f5e805e074154906cf987cd052561&pvs=4">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
     </a>
     <a href="https://velog.io/@sssooon">
@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
+    <a href="https://www.notion.so/sssooon/1f1dedba8b60483ebb474a8d2bbcfa94">
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> 
+    </a>
       <a href="mailto:aurorannn@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
